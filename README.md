@@ -1,6 +1,7 @@
 <!---
 {
   "id": "21351032-2a40-4101-8c29-513fdaf37365",
+  "teaches": "Running Commands in a Background Docker-Container",
   "depends_on": ["24b25804-5bb5-443f-a78a-1bd485bebed8"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-05-14",
